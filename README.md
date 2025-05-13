@@ -7,3 +7,6 @@ iroha Board をカスタマイズしたコードを公開していきます。
 <p>
 [https://irohaboard.irohasoft.jp/custom/](url)
 </p>
+<p>
+  [https://github.com/irohasoft/irohaboard](url)
+</p>
